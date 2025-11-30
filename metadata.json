@@ -1,0 +1,5 @@
+{
+  "name": "Bank Prompt",
+  "description": "A dark-themed, glassmorphic prompt management system backed by Google Sheets.",
+  "requestFramePermissions": []
+}
